@@ -40,4 +40,7 @@ export default {
     'no-unused-components': 'error',
     'no-undefined-server-variable': 'error',
   },
+  oas3_1Rules: {
+    'no-empty-enum-servers': 'error',
+  },
 } as LintRawConfig;
